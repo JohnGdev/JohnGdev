@@ -1,6 +1,6 @@
 ## Olá! Eu sou John Galdino 👋
 
-- 🔭 Cursando Analise e Desenvolvimento de Sistemas | IF Baiano Guanambi
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas | IF Baiano Guanambi
 <div>
   <a href="https://github.com/JohnGdev/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnGdev&show_icons=true&theme=yeblu" />
