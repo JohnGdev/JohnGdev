@@ -3,8 +3,8 @@
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas | IF Baiano Guanambi
 
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnGdev&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnGdev&layout=compact&langs_count=16&theme=transparent"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnGdev&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnGdev&layout=compact&langs_count=16&theme=yeblu"/>
 </div>
 <br>
 
